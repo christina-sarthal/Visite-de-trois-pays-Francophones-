@@ -1,0 +1,78 @@
+
+.rectangle {
+    width: 36vh; 
+     
+    background-color: #FFF; 
+    border-radius: 50px;
+    position: absolute;
+    height:55px; 
+    opacity: 0.6;
+    left: 71vh;
+    top: 3vh;
+}
+
+.titre {
+	position: absolute;
+	top: 0.5vh;
+	left: 81vh;
+	font-size: 1.6rem;
+	
+}
+.F {
+	position: absolute;
+	top: 1vh;
+	left: 150vh;
+	width: 13%;
+}
+.carré {  
+	width: 100vh; 
+     
+    background-color: #FFF; 
+    border-radius: 10vh;
+    position: absolute;
+    height:389px; 
+    opacity: 0.5;
+    left: 57vh;
+    top: 22vh;
+
+}
+
+ .b {
+ 	position: absolute;
+ 	top: 80vh;
+ 	left: 70vh;
+ 	font-size: 1rem;
+ }
+ .c {
+ 	position: absolute;
+ 	top: 80vh;
+ 	left: 108vh;
+ 	font-size: 1rem;
+ }
+ .r {
+ 	position: absolute;
+ 	top: 80vh;
+ 	left: 89vh;
+ 	font-size: 1rem;
+ }
+
+.image {
+	top: 21vh;
+	left: 16vh;
+	border-radius: 15vh;
+	position: absolute;
+	width: 41%;
+}
+.barre {
+    width: 4px;
+    height: 39vh;
+    background-color: #000; 
+    position: absolute;
+    top: 25vh;
+    left: 90vh;
+}
+.t {
+	position: absolute;
+	top: 25vh;
+	left: 94vh;
+}

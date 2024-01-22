@@ -1,0 +1,113 @@
+body { 	
+	margin: 0 ; 
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	font-size: 16px;
+
+}
+
+
+
+header {
+
+	height: 100vh;
+	width: 175,5vh;
+	background-image: url(cloud.webp);
+	background-size: cover;
+
+}
+
+img {
+	position: absolute;
+	width: 10%;
+}
+
+
+.AGENCY {
+	
+	position: absolute;
+	top: 1vh;
+	left: 78vh;
+	font-family:'Fjalla One';
+	font-size: 150%;
+
+	
+}
+.pays {
+	position: absolute;
+	left: 30vh;
+	top: 18vh;
+	font-family: 'DM Serif Display';
+	font-size: 180%;
+	
+	
+}
+
+.belgique {
+	position: absolute;
+	top: 78vh;
+	left: 44.5vh;
+	 
+}
+.france {
+	position: absolute;
+	top: 62vh;
+	left: 85vh;
+	
+}
+.canada {
+	position: absolute;
+	top: 78vh;
+	left: 125vh;
+	
+}
+.img_B {
+	position: absolute;
+	top: 61vh;
+	left: 39vh;
+	width: 13%;
+}
+.img_F {
+	position: absolute;
+	top: 44vh;
+	left: 76vh;
+	width: 15%;
+	
+}
+.img_C {
+	position: absolute;
+	top: 60vh;
+	left: 116vh;
+	width: 15%;
+	transition: width 0.5s ease-in-out;
+	
+}
+.navbar{
+	position: absolute;
+	background: #E3DEE2;
+	opacity: 0.5;
+	top: 730px;
+	left: 0;
+	width: 80%;
+	padding: 2.8rem 10%;
+}
+.info {
+	position: absolute;
+	top: 89.8vh;
+	left: 155vh;
+	width: 8%;
+	 }
+
+table {
+            position: absolute;
+            top: 92vh;
+            border-collapse: collapse;
+            width: 90%;
+        }
+
+th {
+	border: 1px solid rgba(0, 0, 0, 0) ;
+	padding: 8px;
+    text-align: center;
+        }
